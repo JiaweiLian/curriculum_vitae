@@ -1,0 +1,19 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:310> INFO - Logfile is 'cv-llt.blg'
+[82] biber-MSWIN64:340> INFO - === 
+[115] Biber.pm:419> INFO - Reading 'cv-llt.bcf'
+[194] Biber.pm:976> INFO - Using all citekeys in bib section 0
+[203] Biber.pm:4419> INFO - Processing section 0
+[212] Biber.pm:4610> INFO - Looking for bibtex file 'own-bib.bib' for section 0
+[262] bibtex.pm:1713> INFO - LaTeX decoding ...
+[271] bibtex.pm:1519> INFO - Found BibTeX data source 'own-bib.bib'
+[329] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[329] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[329] Biber.pm:4239> INFO - Sorting list 'ydnt/global//global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
+[329] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[335] bbl.pm:660> INFO - Writing 'cv-llt.bbl' with encoding 'UTF-8'
+[340] bbl.pm:763> INFO - Output to cv-llt.bbl
+[340] Biber.pm:131> WARN - legacy year field '2024. \textbf{(Submitted to AAAI 2024)}' in entry 'lian2023attack' is not an integer - this will probably not sort properly.
+[340] Biber.pm:131> WARN - legacy year field '2023. (\textbf{Submitted to Proceedings of the IEEE, the first author is the doctoral advisor})' in entry 'mei2023comprehensive' is not an integer - this will probably not sort properly.
+[340] Biber.pm:131> WARN - legacy year field '2023. \textbf{(International Geoscience and Remote Sensing Symposium 2023, accepted)}' in entry 'lian2023contextual' is not an integer - this will probably not sort properly.
+[340] Biber.pm:133> INFO - WARNINGS: 3

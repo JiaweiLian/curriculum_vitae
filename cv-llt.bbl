@@ -1,0 +1,355 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{ydnt/global//global/global}
+    \entry{lian2023attack}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=2d85e4ba5f81c58afefd70e01fbc9da5}{%
+           family={\textbf{J.\bibnamedelimi Lian}},
+           familyi={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=4d0c2b1ef387cabfa88346c2a1ded791}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Xiaofei},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0b9bd6e3150debab6b1ab18294affed6}{%
+           family={Lu},
+           familyi={L\bibinitperiod},
+           given={Yingjie},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=67e4b23852a614b17c848c108ad8332c}{%
+           family={Ma},
+           familyi={M\bibinitperiod},
+           given={Mingyang},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b3deee92e19ecf34d478dc0c401448c2}{%
+           family={Mei},
+           familyi={M\bibinitperiod},
+           given={Shaohui},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{bff9dd86227d68fe0f9804ac131e7ef2}
+      \strng{fullhash}{0d095ab076b895ca2c4be23d76168a05}
+      \strng{bibnamehash}{0d095ab076b895ca2c4be23d76168a05}
+      \strng{authorbibnamehash}{0d095ab076b895ca2c4be23d76168a05}
+      \strng{authornamehash}{bff9dd86227d68fe0f9804ac131e7ef2}
+      \strng{authorfullhash}{0d095ab076b895ca2c4be23d76168a05}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{AAAI}
+      \field{title}{**********For anonymous review**********}
+      \field{year}{2024. \textbf{(Submitted to AAAI 2024)}}
+      \true{nocite}
+    \endentry
+    \entry{lian2023contextual}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=2d85e4ba5f81c58afefd70e01fbc9da5}{%
+           family={\textbf{J.\bibnamedelimi Lian}},
+           familyi={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=4d0c2b1ef387cabfa88346c2a1ded791}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Xiaofei},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=eb62596f7df929165ca4018c17260784}{%
+           family={Su},
+           familyi={S\bibinitperiod},
+           given={Yuru},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=67e4b23852a614b17c848c108ad8332c}{%
+           family={Ma},
+           familyi={M\bibinitperiod},
+           given={Mingyang},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b3deee92e19ecf34d478dc0c401448c2}{%
+           family={Mei},
+           familyi={M\bibinitperiod},
+           given={Shaohui},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ee0b879bae50935202ba9ba048340143}
+      \strng{fullhash}{0460dc392249e03b46258074e0b33fc5}
+      \strng{bibnamehash}{0460dc392249e03b46258074e0b33fc5}
+      \strng{authorbibnamehash}{0460dc392249e03b46258074e0b33fc5}
+      \strng{authornamehash}{ee0b879bae50935202ba9ba048340143}
+      \strng{authorfullhash}{0460dc392249e03b46258074e0b33fc5}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{arXiv preprint arXiv:2302.13487}
+      \field{title}{Contextual adversarial attack against aerial detection in the physical world}
+      \field{year}{2023. \textbf{(International Geoscience and Remote Sensing Symposium 2023, accepted)}}
+      \true{nocite}
+    \endentry
+    \entry{mei2023comprehensive}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=b3deee92e19ecf34d478dc0c401448c2}{%
+           family={Mei},
+           familyi={M\bibinitperiod},
+           given={Shaohui},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2d85e4ba5f81c58afefd70e01fbc9da5}{%
+           family={\textbf{J.\bibnamedelimi Lian}},
+           familyi={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=4d0c2b1ef387cabfa88346c2a1ded791}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Xiaofei},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=eb62596f7df929165ca4018c17260784}{%
+           family={Su},
+           familyi={S\bibinitperiod},
+           given={Yuru},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=67e4b23852a614b17c848c108ad8332c}{%
+           family={Ma},
+           familyi={M\bibinitperiod},
+           given={Mingyang},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=218fb5dcd8e1accd668f0d396f3ba90f}{%
+           family={Chau},
+           familyi={C\bibinitperiod},
+           given={Lap-Pui},
+           giveni={L\bibinithyphendelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1de9485db6d61cf276330778b5fbda6c}
+      \strng{fullhash}{8d3b3332f9c404e515eb1214413d64c5}
+      \strng{bibnamehash}{8d3b3332f9c404e515eb1214413d64c5}
+      \strng{authorbibnamehash}{8d3b3332f9c404e515eb1214413d64c5}
+      \strng{authornamehash}{1de9485db6d61cf276330778b5fbda6c}
+      \strng{authorfullhash}{8d3b3332f9c404e515eb1214413d64c5}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint arXiv:2306.12111}
+      \field{title}{A Comprehensive Study on the Robustness of Image Classification and Object Detection in Remote Sensing: Surveying and Benchmarking}
+      \field{year}{2023. (\textbf{Submitted to Proceedings of the IEEE, the first author is the doctoral advisor})}
+      \true{nocite}
+    \endentry
+    \entry{lian2023cba}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=2d85e4ba5f81c58afefd70e01fbc9da5}{%
+           family={\textbf{J.\bibnamedelimi Lian}},
+           familyi={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=4d0c2b1ef387cabfa88346c2a1ded791}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Xiaofei},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=eb62596f7df929165ca4018c17260784}{%
+           family={Su},
+           familyi={S\bibinitperiod},
+           given={Yuru},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=67e4b23852a614b17c848c108ad8332c}{%
+           family={Ma},
+           familyi={M\bibinitperiod},
+           given={Mingyang},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b3deee92e19ecf34d478dc0c401448c2}{%
+           family={Mei},
+           familyi={M\bibinitperiod},
+           given={Shaohui},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{ee0b879bae50935202ba9ba048340143}
+      \strng{fullhash}{0460dc392249e03b46258074e0b33fc5}
+      \strng{bibnamehash}{0460dc392249e03b46258074e0b33fc5}
+      \strng{authorbibnamehash}{0460dc392249e03b46258074e0b33fc5}
+      \strng{authornamehash}{ee0b879bae50935202ba9ba048340143}
+      \strng{authorfullhash}{0460dc392249e03b46258074e0b33fc5}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{\textbf{IEEE Transactions on Geoscience and Remote Sensing}}
+      \field{title}{{CBA}: Contextual Background Attack against Optical Aerial Detection in the Physical World}
+      \field{volume}{61}
+      \field{year}{2023}
+      \true{nocite}
+      \field{pages}{1\bibrangedash 16}
+      \range{pages}{16}
+    \endentry
+    \entry{lian2022benchmarking}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=2d85e4ba5f81c58afefd70e01fbc9da5}{%
+           family={\textbf{J.\bibnamedelimi Lian}},
+           familyi={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=b3deee92e19ecf34d478dc0c401448c2}{%
+           family={Mei},
+           familyi={M\bibinitperiod},
+           given={Shaohui},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a3739bbe1787246c16692bfb043543a2}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Shun},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=67e4b23852a614b17c848c108ad8332c}{%
+           family={Ma},
+           familyi={M\bibinitperiod},
+           given={Mingyang},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{891a32a4f51d80db580bba9a644bfc7a}
+      \strng{fullhash}{19064dc45b5e8b64cc5b84783adeb3b0}
+      \strng{bibnamehash}{19064dc45b5e8b64cc5b84783adeb3b0}
+      \strng{authorbibnamehash}{19064dc45b5e8b64cc5b84783adeb3b0}
+      \strng{authornamehash}{891a32a4f51d80db580bba9a644bfc7a}
+      \strng{authorfullhash}{19064dc45b5e8b64cc5b84783adeb3b0}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{\textbf{IEEE Transactions on Geoscience and Remote Sensing}}
+      \field{title}{Benchmarking adversarial patch against aerial detection}
+      \field{volume}{60}
+      \field{year}{2022}
+      \true{nocite}
+      \field{pages}{1\bibrangedash 16}
+      \range{pages}{16}
+    \endentry
+    \entry{lian2022fast}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=2d85e4ba5f81c58afefd70e01fbc9da5}{%
+           family={\textbf{J.\bibnamedelimi Lian}},
+           familyi={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=c71e4b2b53a0966864db995914969220}{%
+           family={He},
+           familyi={H\bibinitperiod},
+           given={Junhong},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2f0f381f80e3a0b47c3278fe44798217}{%
+           family={Niu},
+           familyi={N\bibinitperiod},
+           given={Yun},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=33bbac11ed733bb1b5019b5a5bc5bb35}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Tianze},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Emerald Publishing Limited}%
+      }
+      \strng{namehash}{09be244c6c31471b34e7f2a598a8c555}
+      \strng{fullhash}{a077b5a5544506e1b8e7941a9899b9a4}
+      \strng{bibnamehash}{a077b5a5544506e1b8e7941a9899b9a4}
+      \strng{authorbibnamehash}{a077b5a5544506e1b8e7941a9899b9a4}
+      \strng{authornamehash}{09be244c6c31471b34e7f2a598a8c555}
+      \strng{authorfullhash}{a077b5a5544506e1b8e7941a9899b9a4}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{\textbf{Assembly Automation}}
+      \field{number}{1}
+      \field{title}{Fast and accurate detection of surface defect based on improved YOLOv4}
+      \field{volume}{42}
+      \field{year}{2021}
+      \true{nocite}
+      \field{pages}{134\bibrangedash 146}
+      \range{pages}{13}
+    \endentry
+    \entry{jiawei2022rapid}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=2d85e4ba5f81c58afefd70e01fbc9da5}{%
+           family={\textbf{J.\bibnamedelimi Lian}},
+           familyi={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=c71e4b2b53a0966864db995914969220}{%
+           family={He},
+           familyi={H\bibinitperiod},
+           given={Junhong},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2f0f381f80e3a0b47c3278fe44798217}{%
+           family={Niu},
+           familyi={N\bibinitperiod},
+           given={Yun},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=33bbac11ed733bb1b5019b5a5bc5bb35}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Tianze},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{09be244c6c31471b34e7f2a598a8c555}
+      \strng{fullhash}{a077b5a5544506e1b8e7941a9899b9a4}
+      \strng{bibnamehash}{a077b5a5544506e1b8e7941a9899b9a4}
+      \strng{authorbibnamehash}{a077b5a5544506e1b8e7941a9899b9a4}
+      \strng{authornamehash}{09be244c6c31471b34e7f2a598a8c555}
+      \strng{authorfullhash}{a077b5a5544506e1b8e7941a9899b9a4}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{\textbf{Computer Integrated Manufacturing System}}
+      \field{number}{11}
+      \field{title}{Rapid detection of surface defects based on multi-scale compression CNN}
+      \field{volume}{28}
+      \field{year}{2021}
+      \true{nocite}
+      \field{pages}{3624}
+      \range{pages}{1}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
