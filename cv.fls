@@ -2,7 +2,7 @@ PWD c:/Files/Code/curriculum_vitae
 INPUT c:/texlive/2023/texmf.cnf
 INPUT c:/texlive/2023/texmf-dist/web2c/texmf.cnf
 INPUT c:/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT cv.tex
+INPUT c:/Files/Code/curriculum_vitae/cv.tex
 OUTPUT cv.log
 INPUT c:/texlive/2023/texmf-dist/tex/latex/curve/curve.cls
 INPUT c:/texlive/2023/texmf-dist/tex/latex/curve/curve.cls
@@ -1365,11 +1365,11 @@ INPUT c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT c:/texlive/2023/texmf-dist/fonts/enc/dvips/cabin/cbn_i3ioen.enc
 INPUT c:/texlive/2023/texmf-dist/fonts/enc/dvips/inconsolata/i4-t1-5.enc
 INPUT c:/texlive/2023/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc
-INPUT c:/texlive/2023/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc
-INPUT c:/texlive/2023/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc
 INPUT c:/texlive/2023/texmf-dist/fonts/vf/public/cochineal/Cochineal-Roman-osf-swash-t1.vf
 INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/cochineal/Cochineal-Roman-osf-swash-t1--base.tfm
 INPUT c:/texlive/2023/texmf-dist/fonts/enc/dvips/cochineal/coch_kbpxlj.enc
+INPUT c:/texlive/2023/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc
+INPUT c:/texlive/2023/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc
 INPUT c:/texlive/2023/texmf-dist/fonts/vf/public/cochineal/Cochineal-Bold-osf-swash-t1.vf
 INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/cochineal/Cochineal-Bold-osf-swash-t1--base.tfm
 INPUT c:/texlive/2023/texmf-dist/fonts/enc/dvips/cochineal/coch_qyvxxn.enc

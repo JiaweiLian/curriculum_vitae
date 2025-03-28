@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.2.24)  7 OCT 2024 10:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.2.24)  28 MAR 2025 13:40
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**cv.tex
-(./cv.tex
+**c:/Files/Code/curriculum_vitae/cv.tex
+(c:/Files/Code/curriculum_vitae/cv.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-02-22> (c:/texlive/2023/texmf-dist/tex/latex/curve/curve.cls
 Document Class: curve 2010/12/14 v1.16 Curriculum Vitae class for LaTeX2e
@@ -854,7 +854,9 @@ LaTeX Font Info:    Font shape `T1/Cochineal-TLF/m/n' will be
 Package: zi4 2019/05/17 v1.12
  `inconsolata-zi4' v1.12, 2019/05/17 Text macros for Inconsolata (msharpe)
 \zifour@ocount=\count453
-) Include comment 'fullonly' Including 'fullonly' comment.
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 58.
+ Include comment 'fullonly' Including 'fullonly' comment.
 \openout4 = `comment.cut'.
 
  Straight input of comment.cut. (./comment.cut)
@@ -862,34 +864,34 @@ Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'english'.
-LaTeX Info: Redefining \oldstylenums on input line 100.
-LaTeX Font Info:    Trying to load font information for T1+Cochineal-OsF on input line 100.
+LaTeX Info: Redefining \oldstylenums on input line 108.
+LaTeX Font Info:    Trying to load font information for T1+Cochineal-OsF on input line 108.
  (c:/texlive/2023/texmf-dist/tex/latex/cochineal/T1Cochineal-OsF.fd
 File: T1Cochineal-OsF.fd 2016/01/19 (msharpe) Font definitions for T1/Cochineal-OsF.
 )
 LaTeX Font Info:    Font shape `T1/Cochineal-OsF/m/n' will be
-(Font)              scaled to size 10.95pt on input line 100.
+(Font)              scaled to size 10.95pt on input line 108.
  (./cv.aux)
 \openout1 = `cv.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 100.
-LaTeX Font Info:    ... okay on input line 100.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 100.
-LaTeX Font Info:    ... okay on input line 100.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 100.
-LaTeX Font Info:    ... okay on input line 100.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 100.
-LaTeX Font Info:    ... okay on input line 100.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 100.
-LaTeX Font Info:    ... okay on input line 100.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 100.
-LaTeX Font Info:    ... okay on input line 100.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 100.
-LaTeX Font Info:    ... okay on input line 100.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 100.
-LaTeX Font Info:    ... okay on input line 100.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 100.
-LaTeX Font Info:    ... okay on input line 100.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 108.
+LaTeX Font Info:    ... okay on input line 108.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 108.
+LaTeX Font Info:    ... okay on input line 108.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 108.
+LaTeX Font Info:    ... okay on input line 108.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 108.
+LaTeX Font Info:    ... okay on input line 108.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 108.
+LaTeX Font Info:    ... okay on input line 108.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 108.
+LaTeX Font Info:    ... okay on input line 108.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 108.
+LaTeX Font Info:    ... okay on input line 108.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 108.
+LaTeX Font Info:    ... okay on input line 108.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 108.
+LaTeX Font Info:    ... okay on input line 108.
  (c:/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count454
@@ -973,9 +975,9 @@ LaTeX Font Info:    Font shape `T1/Cabin-TLF/b/n' aliased to
 LaTeX Font Info:    Font shape `T1/Cabin-TLF/bold/n' will be
 (Font)              scaled to size 8.0pt on input line 87.
 )
-Package biblatex Info: Reference section=0 on input line 100.
-Package biblatex Info: Reference segment=0 on input line 100.
-Package hyperref Info: Link coloring ON on input line 100.
+Package biblatex Info: Reference section=0 on input line 108.
+Package biblatex Info: Reference segment=0 on input line 108.
+Package hyperref Info: Link coloring ON on input line 108.
  (./cv.out) (./cv.out)
 \@outlinefile=\write6
 \openout6 = `cv.out'.
@@ -986,51 +988,51 @@ Package hyperref Info: Link coloring ON on input line 100.
 Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verbatim
 )
 LaTeX Font Info:    Font shape `T1/Cochineal-OsF/m/n' will be
-(Font)              scaled to size 17.28pt on input line 101.
+(Font)              scaled to size 17.28pt on input line 109.
 LaTeX Font Info:    Font shape `T1/Cochineal-OsF/b/n' will be
-(Font)              scaled to size 17.28pt on input line 101.
+(Font)              scaled to size 17.28pt on input line 109.
 LaTeX Font Info:    Font shape `T1/Cabin-TLF/b/n' aliased to
-(Font)              `T1/Cabin-TLF/bold/n' on input line 101.
+(Font)              `T1/Cabin-TLF/bold/n' on input line 109.
 LaTeX Font Info:    Font shape `T1/Cabin-TLF/bold/n' will be
-(Font)              scaled to size 17.28pt on input line 101.
-LaTeX Font Info:    Trying to load font information for T1+zi4 on input line 101.
+(Font)              scaled to size 17.28pt on input line 109.
+LaTeX Font Info:    Trying to load font information for T1+zi4 on input line 109.
  (c:/texlive/2023/texmf-dist/tex/latex/inconsolata/t1zi4.fd
 File: t1zi4.fd 2018/01/14 T1/zi4 (Inconsolata)
 )
 LaTeX Font Info:    Font shape `T1/zi4/b/n' will be
-(Font)              scaled to size 15.55188pt on input line 101.
+(Font)              scaled to size 15.55188pt on input line 109.
 
-Underfull \hbox (badness 10000) in paragraph at lines 101--101
+Underfull \hbox (badness 10000) in paragraph at lines 109--109
 
  []
 
-LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on input line 101.
+LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on input line 109.
 (c:/texlive/2023/texmf-dist/tex/latex/fontawesome5/ufontawesomefree1.fd)
 LaTeX Font Info:    Font shape `T1/zi4/m/n' will be
-(Font)              scaled to size 9.85492pt on input line 101.
-LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on input line 101.
+(Font)              scaled to size 9.85492pt on input line 109.
+LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on input line 109.
  (c:/texlive/2023/texmf-dist/tex/latex/fontawesome5/ufontawesomefree2.fd)
-LaTeX Font Info:    Trying to load font information for U+fontawesomebrands0 on input line 101.
+LaTeX Font Info:    Trying to load font information for U+fontawesomebrands0 on input line 109.
  (c:/texlive/2023/texmf-dist/tex/latex/fontawesome5/ufontawesomebrands0.fd)
 LaTeX Font Info:    Font shape `U/fontawesomebrands0/solid/n' in size <10.95> not available
-(Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead on input line 101.
+(Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead on input line 109.
 LaTeX Font Info:    Font shape `T1/Cochineal-OsF/b/n' will be
-(Font)              scaled to size 10.95pt on input line 101.
+(Font)              scaled to size 10.95pt on input line 109.
 
-Underfull \hbox (badness 10000) in paragraph at lines 101--101
+Underfull \hbox (badness 10000) in paragraph at lines 109--109
 
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 101.
+(Font)              <10.95> on input line 109.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 101.
+(Font)              <8> on input line 109.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 101.
-<JiaweiLian.jpg, id=35, 1076.02pt x 1505.625pt>
+(Font)              <6> on input line 109.
+<JiaweiLian.jpg, id=37, 1076.02pt x 1505.625pt>
 File: JiaweiLian.jpg Graphic file (type jpg)
 <use JiaweiLian.jpg>
-Package pdftex.def Info: JiaweiLian.jpg  used on input line 101.
+Package pdftex.def Info: JiaweiLian.jpg  used on input line 109.
 (pdftex.def)             Requested size: 79.80911pt x 111.65343pt.
 (./education.tex (c:/texlive/2023/texmf-dist/tex/latex/fontawesome5/ufontawesomefree0.fd)) (./education.tex) (./education.tex) (./education.tex) (./publications.tex
 LaTeX Font Info:    Font shape `T1/Cochineal-OsF/m/n' will be
@@ -1043,7 +1045,7 @@ LaTeX Font Info:    Font shape `T1/Cabin-TLF/bold/n' will be
 (Font)              scaled to size 12.0pt on input line 11.
  [1
 
-{c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2023/texmf-dist/fonts/enc/dvips/cabin/cbn_i3ioen.enc}{c:/texlive/2023/texmf-dist/fonts/enc/dvips/inconsolata/i4-t1-5.enc}{c:/texlive/2023/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}{c:/texlive/2023/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc}{c:/texlive/2023/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{c:/texlive/2023/texmf-dist/fonts/enc/dvips/cochineal/coch_kbpxlj.enc}{c:/texlive/2023/texmf-dist/fonts/enc/dvips/cochineal/coch_qyvxxn.enc}{c:/texlive/2023/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free0.enc} <./JiaweiLian.jpg>]) (./china_patents.tex) (./china_patents.tex) (./china_patents.tex) (./china_patents.tex) (./misc.tex) (./misc.tex) (./misc.tex) (./misc.tex) [2] (./cv.aux)
+{c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2023/texmf-dist/fonts/enc/dvips/cabin/cbn_i3ioen.enc}{c:/texlive/2023/texmf-dist/fonts/enc/dvips/inconsolata/i4-t1-5.enc}{c:/texlive/2023/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}{c:/texlive/2023/texmf-dist/fonts/enc/dvips/cochineal/coch_kbpxlj.enc}{c:/texlive/2023/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc}{c:/texlive/2023/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{c:/texlive/2023/texmf-dist/fonts/enc/dvips/cochineal/coch_qyvxxn.enc}{c:/texlive/2023/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free0.enc} <./JiaweiLian.jpg>]) (./china_patents.tex) (./china_patents.tex) (./china_patents.tex) (./china_patents.tex) (./misc.tex) (./misc.tex) (./misc.tex) (./misc.tex) [2] (./cv.aux)
 Package rerunfilecheck Info: File `cv.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 Package logreq Info: Writing requests to 'cv.run.xml'.
@@ -1051,18 +1053,18 @@ Package logreq Info: Writing requests to 'cv.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 36355 strings out of 476025
- 726769 string characters out of 5794015
- 1881382 words of memory out of 5000000
+ 36356 strings out of 476025
+ 726890 string characters out of 5794015
+ 1879382 words of memory out of 5000000
  56136 multiletter control sequences out of 15000+600000
  747430 words of font info for 73 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 100i,11n,95p,1147b,1779s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 100i,11n,95p,1178b,1779s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2023/texmf-dist/fonts/type1/impallari/cabin/Cabin-Bold.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/cochineal/Cochineal-Bold.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/cochineal/Cochineal-Italic.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/cochineal/Cochineal-Roman.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Regular.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/inconsolata/Inconsolata-zi4b.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/inconsolata/Inconsolata-zi4r.pfb>
-Output written on cv.pdf (2 pages, 426533 bytes).
+Output written on cv.pdf (2 pages, 427536 bytes).
 PDF statistics:
- 126 PDF objects out of 1000 (max. 8388607)
- 83 compressed objects within 1 object stream
+ 140 PDF objects out of 1000 (max. 8388607)
+ 88 compressed objects within 1 object stream
  15 named destinations out of 1000 (max. 500000)
  120 words of extra memory for PDF output out of 10000 (max. 10000000)
 

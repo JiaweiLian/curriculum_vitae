@@ -1,13 +1,14 @@
 # Fdb version 4
-["biber cv"] 1728268716 "cv.bcf" "cv.bbl" "cv" 1728268725 0
-  "./own-bib.bib" 1728268096 2939 786af09209c86a3e7c727df12f443cba ""
-  "cv.bcf" 1728268724 107958 8673f778314c5c072029f88e6e869df5 "pdflatex"
+["biber cv"] 1743140226 "cv.bcf" "cv.bbl" "cv" 1743140438 0
+  "./own-bib.bib" 1743140225 3046 94c3764b9b992accd4414184ce0244ca ""
+  "cv.bcf" 1743140437 107958 8673f778314c5c072029f88e6e869df5 "pdflatex"
   (generated)
   "cv.bbl"
   "cv.blg"
   (rewritten before read)
-["pdflatex"] 1728268722 "cv.tex" "cv.pdf" "cv" 1728268725 0
+["pdflatex"] 1743140435 "c:/Files/Code/curriculum_vitae/cv.tex" "cv.pdf" "cv" 1743140438 0
   "JiaweiLian.jpg" 1718043584 73870 13d6d07edfed1e8449a35c319ac2a5b0 ""
+  "c:/Files/Code/curriculum_vitae/cv.tex" 1743140435 4853 1bd2e156281238d488a2ba2124ad0bce ""
   "c:/texlive/2023/texmf-dist/fonts/enc/dvips/cabin/cbn_i3ioen.enc" 1708774978 2809 947aec6f9801b5a045e999c93403fba2 ""
   "c:/texlive/2023/texmf-dist/fonts/enc/dvips/cochineal/coch_kbpxlj.enc" 1708775029 3344 f75cb1873088703b3b7bb04889c29165 ""
   "c:/texlive/2023/texmf-dist/fonts/enc/dvips/cochineal/coch_qyvxxn.enc" 1708775029 3342 dc424d2057444cb8c908df92f7cd9121 ""
@@ -256,14 +257,14 @@
   "c:/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1708776277 7883451 e262742909140f78326a780a2fe6d439 ""
   "c:/texlive/2023/texmf.cnf" 1708776159 713 e69b156964470283e0530f5060668171 ""
   "china_patents.tex" 1718043584 750 b16eb950b2437093b966a6f78537e1bb ""
-  "comment.cut" 1728268723 40 38e71840b07fd835f6c1ea3669c978fd "pdflatex"
-  "cv.aux" 1728268724 2423 827344667c48bd91ff8967678d8375c9 "pdflatex"
-  "cv.bbl" 1728268718 20210 779542db170b6a8c5ca4d84d788805ba "biber cv"
-  "cv.out" 1728268724 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "cv.run.xml" 1728268724 2385 97c84f7494a62c23502af1822d813c62 "pdflatex"
-  "cv.tex" 1728268713 4595 3cf4339a922f10f20b684432272c29bf ""
-  "education.tex" 1728265632 1019 3f98b83718c3c69f53455313b1cab0dc ""
-  "misc.tex" 1728267677 1890 1723977da86b44d502efea22c1319dc8 ""
+  "comment.cut" 1743140437 40 38e71840b07fd835f6c1ea3669c978fd "pdflatex"
+  "cv.aux" 1743140437 2433 c4c56fd7d20233ecad2af8a427701ba2 "pdflatex"
+  "cv.bbl" 1743140227 20378 c231198d27b50a5d437eec9b197c61ad "biber cv"
+  "cv.out" 1743140437 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "cv.run.xml" 1743140437 2385 97c84f7494a62c23502af1822d813c62 "pdflatex"
+  "cv.tex" 1743140435 4853 1bd2e156281238d488a2ba2124ad0bce ""
+  "education.tex" 1743139533 1206 c10e9c24e0482580aad7441e7193b121 ""
+  "misc.tex" 1743140384 1866 fbfe8ade6b85118fd68755377f162859 ""
   "publications.tex" 1728264927 723 9b3f72c0c65d539dfc2604e7b0bacbbb ""
   "settings.sty" 1718043584 4302 dce5bf79765a331921c36bda8050dee1 ""
   (generated)
