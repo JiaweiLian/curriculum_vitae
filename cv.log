@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.2.24)  28 MAR 2025 13:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.2.24)  10 JUL 2025 20:17
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1053,18 +1053,18 @@ Package logreq Info: Writing requests to 'cv.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 36356 strings out of 476025
- 726890 string characters out of 5794015
- 1879382 words of memory out of 5000000
- 56136 multiletter control sequences out of 15000+600000
+ 36362 strings out of 476025
+ 727148 string characters out of 5794015
+ 1880382 words of memory out of 5000000
+ 56141 multiletter control sequences out of 15000+600000
  747430 words of font info for 73 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  100i,11n,95p,1178b,1779s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2023/texmf-dist/fonts/type1/impallari/cabin/Cabin-Bold.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/cochineal/Cochineal-Bold.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/cochineal/Cochineal-Italic.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/cochineal/Cochineal-Roman.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Regular.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/inconsolata/Inconsolata-zi4b.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/inconsolata/Inconsolata-zi4r.pfb>
-Output written on cv.pdf (2 pages, 427536 bytes).
+Output written on cv.pdf (2 pages, 428534 bytes).
 PDF statistics:
- 140 PDF objects out of 1000 (max. 8388607)
- 88 compressed objects within 1 object stream
- 15 named destinations out of 1000 (max. 500000)
+ 141 PDF objects out of 1000 (max. 8388607)
+ 89 compressed objects within 1 object stream
+ 16 named destinations out of 1000 (max. 500000)
  120 words of extra memory for PDF output out of 10000 (max. 10000000)
 

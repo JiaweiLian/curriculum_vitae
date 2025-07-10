@@ -137,7 +137,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{arXiv preprint arXiv:2408.09181}
       \field{title}{PADetBench: Towards Benchmarking Physical Attacks against Object Detection}
-      \field{year}{2024. \textbf{(Under review, IEEE Transactions on Reliability)}}
+      \field{year}{2024. \textbf{(Under review, Knowledge-Based Systems)}}
       \true{nocite}
     \endentry
     \entry{lian2025revealing}{article}{}
@@ -190,8 +190,63 @@
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint arXiv:2504.05050}
       \field{title}{Revealing the Intrinsic Ethical Vulnerability of Aligned Large Language Models}
-      \field{year}{2025. (\textbf{Drafting})}
+      \field{year}{2025. (\textbf{Under review, Nature Communications})}
+      \true{nocite}
+    \endentry
+    \entry{lian2025semantic}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=380dad5eeddeb8226c5f7bb0d805b2ee}{%
+           family={Lian},
+           familyi={L\bibinitperiod},
+           given={Jiawei},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=90b880ec9cdf4714c1ec357df93b6930}{%
+           family={Pan},
+           familyi={P\bibinitperiod},
+           given={Jianhong},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=1,uniquepart=given,hash=20583bdbada4cf4c81f60a9a02b4a83f}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Lefan},
+           giveni={L\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=141a1e7404c5b53546fb09821c56717a}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Yi},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b3deee92e19ecf34d478dc0c401448c2}{%
+           family={Mei},
+           familyi={M\bibinitperiod},
+           given={Shaohui},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=218fb5dcd8e1accd668f0d396f3ba90f}{%
+           family={Chau},
+           familyi={C\bibinitperiod},
+           given={Lap-Pui},
+           giveni={L\bibinithyphendelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{65762b4ccfa77f23dedd5f30f1442456}
+      \strng{fullhash}{20aed870d54b7dc11a098966f7d3537d}
+      \strng{bibnamehash}{20aed870d54b7dc11a098966f7d3537d}
+      \strng{authorbibnamehash}{20aed870d54b7dc11a098966f7d3537d}
+      \strng{authornamehash}{65762b4ccfa77f23dedd5f30f1442456}
+      \strng{authorfullhash}{20aed870d54b7dc11a098966f7d3537d}
+      \field{extraname}{3}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Semantic Representation Attack against Aligned Large Language Models}
+      \field{year}{2025. (\textbf{Under review, NeurIPS 2025})}
       \true{nocite}
     \endentry
     \entry{mei2023comprehensive}{article}{}
