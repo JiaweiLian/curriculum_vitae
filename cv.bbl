@@ -137,7 +137,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{arXiv preprint arXiv:2408.09181}
       \field{title}{PADetBench: Towards Benchmarking Physical Attacks against Object Detection}
-      \field{year}{2024. \textbf{(Under review, Knowledge-Based Systems)}}
+      \field{year}{2024. \textbf{(Accepted by Knowledge-Based Systems)}}
       \true{nocite}
     \endentry
     \entry{lian2025revealing}{article}{}
@@ -195,7 +195,7 @@
       \field{year}{2025. (\textbf{Under review, Nature Communications})}
       \true{nocite}
     \endentry
-    \entry{lian2025semantic}{article}{}
+    \entry{lian2025semantic}{inproceedings}{}
       \name{author}{6}{}{%
         {{un=0,uniquepart=base,hash=380dad5eeddeb8226c5f7bb0d805b2ee}{%
            family={Lian},
@@ -245,8 +245,9 @@
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{booktitle}{NeurIPS}
       \field{title}{Semantic Representation Attack against Aligned Large Language Models}
-      \field{year}{2025. (\textbf{Under review, NeurIPS 2025})}
+      \field{year}{2025. (\textbf{Under review})}
       \true{nocite}
     \endentry
     \entry{mei2023comprehensive}{article}{}
