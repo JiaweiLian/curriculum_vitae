@@ -299,7 +299,7 @@
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{NeurIPS}
+      \field{booktitle}{Advances in Neural Information Processing Systems (NeurIPS)}
       \field{title}{Semantic Representation Attack against Aligned Large Language Models}
       \field{year}{2025}
       \true{nocite}
@@ -406,7 +406,7 @@
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{IEEE International Geoscience and Remote Sensing Symposium}
+      \field{booktitle}{IEEE International Geoscience and Remote Sensing Symposium (IGARSS)}
       \field{title}{Contextual adversarial attack against aerial detection in the physical world}
       \field{year}{2023}
       \true{nocite}
