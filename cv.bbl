@@ -85,7 +85,7 @@
       \field{year}{2024. (\textbf{Under review, IEEE Transactions on Dependable and Secure Computing})}
       \true{nocite}
     \endentry
-    \entry{lian2024padetbench}{article}{}
+    \entry{lian2025revealing}{article}{}
       \name{author}{6}{}{%
         {{un=0,uniquepart=base,hash=380dad5eeddeb8226c5f7bb0d805b2ee}{%
            family={Lian},
@@ -135,12 +135,66 @@
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{arXiv preprint arXiv:2408.09181}
-      \field{title}{PADetBench: Towards Benchmarking Physical Attacks against Object Detection}
-      \field{year}{2024. \textbf{(Accepted by Knowledge-Based Systems)}}
+      \field{journaltitle}{arXiv preprint arXiv:2504.05050}
+      \field{title}{Revealing the Intrinsic Ethical Vulnerability of Aligned Large Language Models}
+      \field{year}{2025. (\textbf{Under major revision, Nature Communications})}
       \true{nocite}
     \endentry
-    \entry{lian2025revealing}{article}{}
+    \entry{mei2024comprehensive}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=b3deee92e19ecf34d478dc0c401448c2}{%
+           family={Mei},
+           familyi={M\bibinitperiod},
+           given={Shaohui},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=380dad5eeddeb8226c5f7bb0d805b2ee}{%
+           family={Lian},
+           familyi={L\bibinitperiod},
+           given={Jiawei},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=1,uniquepart=given,hash=4d0c2b1ef387cabfa88346c2a1ded791}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Xiaofei},
+           giveni={X\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=eb62596f7df929165ca4018c17260784}{%
+           family={Su},
+           familyi={S\bibinitperiod},
+           given={Yuru},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=67e4b23852a614b17c848c108ad8332c}{%
+           family={Ma},
+           familyi={M\bibinitperiod},
+           given={Mingyang},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=218fb5dcd8e1accd668f0d396f3ba90f}{%
+           family={Chau},
+           familyi={C\bibinitperiod},
+           given={Lap-Pui},
+           giveni={L\bibinithyphendelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{25427eef04b054c9f3a2f70301973b9c}
+      \strng{fullhash}{e79dc31236d57917acc99ead2051072f}
+      \strng{bibnamehash}{e79dc31236d57917acc99ead2051072f}
+      \strng{authorbibnamehash}{e79dc31236d57917acc99ead2051072f}
+      \strng{authornamehash}{25427eef04b054c9f3a2f70301973b9c}
+      \strng{authorfullhash}{e79dc31236d57917acc99ead2051072f}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Remote Sensing}
+      \field{title}{A Comprehensive Study on the Robustness of Image Classification and Object Detection in Remote Sensing: Surveying and Benchmarking}
+      \field{year}{2024. (\textbf{The first author is the Ph.D. advisor})}
+      \true{nocite}
+    \endentry
+    \entry{lian2024padetbench}{article}{}
       \name{author}{6}{}{%
         {{un=0,uniquepart=base,hash=380dad5eeddeb8226c5f7bb0d805b2ee}{%
            family={Lian},
@@ -190,9 +244,9 @@
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{arXiv preprint arXiv:2504.05050}
-      \field{title}{Revealing the Intrinsic Ethical Vulnerability of Aligned Large Language Models}
-      \field{year}{2025. (\textbf{Under review, Nature Communications})}
+      \field{journaltitle}{Knowledge-Based Systems}
+      \field{title}{PADetBench: Towards Benchmarking Physical Attacks against Object Detection}
+      \field{year}{2025}
       \true{nocite}
     \endentry
     \entry{lian2025semantic}{inproceedings}{}
@@ -247,61 +301,7 @@
       \field{labeltitlesource}{title}
       \field{booktitle}{NeurIPS}
       \field{title}{Semantic Representation Attack against Aligned Large Language Models}
-      \field{year}{2025. (\textbf{Under review})}
-      \true{nocite}
-    \endentry
-    \entry{mei2023comprehensive}{article}{}
-      \name{author}{6}{}{%
-        {{un=0,uniquepart=base,hash=b3deee92e19ecf34d478dc0c401448c2}{%
-           family={Mei},
-           familyi={M\bibinitperiod},
-           given={Shaohui},
-           giveni={S\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=380dad5eeddeb8226c5f7bb0d805b2ee}{%
-           family={Lian},
-           familyi={L\bibinitperiod},
-           given={Jiawei},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
-        {{un=1,uniquepart=given,hash=4d0c2b1ef387cabfa88346c2a1ded791}{%
-           family={Wang},
-           familyi={W\bibinitperiod},
-           given={Xiaofei},
-           giveni={X\bibinitperiod},
-           givenun=1}}%
-        {{un=0,uniquepart=base,hash=eb62596f7df929165ca4018c17260784}{%
-           family={Su},
-           familyi={S\bibinitperiod},
-           given={Yuru},
-           giveni={Y\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=67e4b23852a614b17c848c108ad8332c}{%
-           family={Ma},
-           familyi={M\bibinitperiod},
-           given={Mingyang},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=218fb5dcd8e1accd668f0d396f3ba90f}{%
-           family={Chau},
-           familyi={C\bibinitperiod},
-           given={Lap-Pui},
-           giveni={L\bibinithyphendelim P\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{25427eef04b054c9f3a2f70301973b9c}
-      \strng{fullhash}{e79dc31236d57917acc99ead2051072f}
-      \strng{bibnamehash}{e79dc31236d57917acc99ead2051072f}
-      \strng{authorbibnamehash}{e79dc31236d57917acc99ead2051072f}
-      \strng{authornamehash}{25427eef04b054c9f3a2f70301973b9c}
-      \strng{authorfullhash}{e79dc31236d57917acc99ead2051072f}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Journal of Remote Sensing}
-      \field{title}{A Comprehensive Study on the Robustness of Image Classification and Object Detection in Remote Sensing: Surveying and Benchmarking}
-      \field{year}{2023. (\textbf{The first author is the Ph.D. advisor})}
+      \field{year}{2025}
       \true{nocite}
     \endentry
     \entry{lian2023cba}{article}{}
@@ -406,7 +406,7 @@
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{IGARSS 2023-2023 IEEE International Geoscience and Remote Sensing Symposium}
+      \field{booktitle}{IEEE International Geoscience and Remote Sensing Symposium}
       \field{title}{Contextual adversarial attack against aerial detection in the physical world}
       \field{year}{2023}
       \true{nocite}

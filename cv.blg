@@ -1,21 +1,21 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
 [0] Config.pm:310> INFO - Logfile is 'cv.blg'
-[82] biber-MSWIN64:340> INFO - === 
-[117] Biber.pm:419> INFO - Reading 'cv.bcf'
-[203] Biber.pm:976> INFO - Using all citekeys in bib section 0
-[212] Biber.pm:4419> INFO - Processing section 0
-[222] Biber.pm:4610> INFO - Looking for bibtex file 'own-bib.bib' for section 0
-[281] bibtex.pm:1713> INFO - LaTeX decoding ...
-[297] bibtex.pm:1519> INFO - Found BibTeX data source 'own-bib.bib'
-[371] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[371] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[371] Biber.pm:4239> INFO - Sorting list 'ydnt/global//global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
-[371] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
-[379] bbl.pm:660> INFO - Writing 'cv.bbl' with encoding 'UTF-8'
-[387] bbl.pm:763> INFO - Output to cv.bbl
-[388] Biber.pm:131> WARN - legacy year field '2025. (\textbf{Under review, Nature Communications})' in entry 'lian2025revealing' is not an integer - this will probably not sort properly.
-[388] Biber.pm:131> WARN - legacy year field '2023. (\textbf{The first author is the Ph.D. advisor})' in entry 'mei2023comprehensive' is not an integer - this will probably not sort properly.
-[388] Biber.pm:131> WARN - legacy year field '2025. (\textbf{Under review})' in entry 'lian2025semantic' is not an integer - this will probably not sort properly.
-[388] Biber.pm:131> WARN - legacy year field '2024. (\textbf{Under review, IEEE Transactions on Dependable and Secure Computing})' in entry 'lian2024attack' is not an integer - this will probably not sort properly.
-[388] Biber.pm:131> WARN - legacy year field '2024. \textbf{(Accepted by Knowledge-Based Systems)}' in entry 'lian2024padetbench' is not an integer - this will probably not sort properly.
-[388] Biber.pm:133> INFO - WARNINGS: 5
+[83] biber-MSWIN64:340> INFO - === 
+[120] Biber.pm:419> INFO - Reading 'cv.bcf'
+[201] Biber.pm:976> INFO - Using all citekeys in bib section 0
+[210] Biber.pm:4419> INFO - Processing section 0
+[219] Biber.pm:4610> INFO - Looking for bibtex file 'own-bib.bib' for section 0
+[279] bibtex.pm:1713> INFO - LaTeX decoding ...
+[294] bibtex.pm:1519> INFO - Found BibTeX data source 'own-bib.bib'
+[369] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[370] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[370] Biber.pm:4239> INFO - Sorting list 'ydnt/global//global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
+[370] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[377] bbl.pm:660> INFO - Writing 'cv.bbl' with encoding 'UTF-8'
+[385] bbl.pm:763> INFO - Output to cv.bbl
+[385] Biber.pm:131> WARN - legacy year field '2024. (\textbf{The first author is the Ph.D. advisor})' in entry 'mei2024comprehensive' is not an integer - this will probably not sort properly.
+[385] Biber.pm:131> WARN - legacy year field '2025.' in entry 'lian2025semantic' is not an integer - this will probably not sort properly.
+[385] Biber.pm:131> WARN - legacy year field '2025.' in entry 'lian2024padetbench' is not an integer - this will probably not sort properly.
+[385] Biber.pm:131> WARN - legacy year field '2024. (\textbf{Under review, IEEE Transactions on Dependable and Secure Computing})' in entry 'lian2024attack' is not an integer - this will probably not sort properly.
+[385] Biber.pm:131> WARN - legacy year field '2025. (\textbf{Under major revision, Nature Communications})' in entry 'lian2025revealing' is not an integer - this will probably not sort properly.
+[385] Biber.pm:133> INFO - WARNINGS: 5
