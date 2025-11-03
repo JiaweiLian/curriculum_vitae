@@ -12,28 +12,8 @@
 % \usepackage{ctex}
 
 
-% Default biblatex style used for the publication list is APA6. If you wish to use a different style or pass other options to biblatex you can change them here. 
-\PassOptionsToPackage{style=ieee,sorting=ydnt,uniquename=init,defernumbers=true}{biblatex}
-
 % Most commands and style definitions are in settings.sty.
 \usepackage{settings}
-
-% If you need to further customise your biblatex setup e.g. with \DeclareFieldFormat etc please add them here AFTER loading settings.sty. For example, to remove the default "[Online] Available:" prefix before URLs when using the IEEE style:
-\DefineBibliographyStrings{english}{url={\textsc{url}}}
-
-%% Only needed if you want a Publication List
-\addbibresource{own-bib.bib}
-
-%% Specify your last name(s) and first name(s) (as given in the .bib) to automatically bold your own name in the publications list. 
-%% One caveat: You need to write \bibnamedelima where there's a space in your name for this to work properly; or write \bibnamedelimi if you use initials in the .bib
-% \mynames{Lim/Lian\bibnamedelima Tze}
-
-%% You can specify multiple names like this, especially if you have changed your name or if you need to highlight multiple authors. See items 6–9 in the example "Journal Articles" output.
-\mynames{Lim/Lian\bibnamedelima Tze,
-  Wong/Lian\bibnamedelima Tze,
-  Lim/Tracy,
-  Lim/L.\bibnamedelimi T.}
-%% MAKE SURE THERE IS NO SPACE AFTER THE FINAL NAME IN YOUR \mynames LIST
 
 
 % Change the fonts if you want
@@ -90,7 +70,7 @@
   \makefield{\faHome}{\href{https://jiaweilian.github.io/}{\texttt{Homepage}}}\newline
   \\
   -\textbf{Birth Date}: 01/1997\newline
-  -\textbf{Status}: Third-year Ph.D. student, PolyU and NWPU joint training leading to dual Ph.D.\newline
+  -\textbf{Status}: Final-year PhD student, PolyU and NWPU joint training leading to dual PhD\newline
   -\textbf{Research Interest}: AI Safety, Large language model, Computer vision, Remote sensing\newline
   -\textbf{Postal Address}: Room 505, Building CF, The Hong Kong Polytechnic University, Hung Hom, Kowloon, Hong Kong
   }
